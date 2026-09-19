@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Recepcion - 2026</title>
+    <link rel="stylesheet" href="estilos.css">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Montserrat:wght@300;400&display=swap" rel="stylesheet">
+   
+</head>
+<body>
+
+    <header>
+        <div class="hero-subtitle">Mi Recepcion</div>
+        <h1 class="hero-title">2026</h1>
+        
+        <section id="countdown">
+    <div><span id="days">0</span><br>DAYS</div>
+    <div><span id="hours">0</span><br>HOURS</div>
+    <div><span id="minutes">0</span><br>MINUTES</div>
+    <div><span id="seconds">0</span><br>SECONDS</div>
+  </section>
+    </header>
+
+    <section class="cuando">
+        <img src="https://latarjetadigital.com.ar/wp-content/uploads/2024/11/ffffff-blanco-icono-3.gif" class="icon-img" alt="Calendario">
+        <h3>¿Cuando?</h3>
+        <p>December 11, 2026 | 21:00 HS</p>
+    </section>
+
+    <section class="donde">
+        <img src="https://latarjetadigital.com.ar/wp-content/uploads/2024/11/c7757f-rosa-salmon-1.gif" class="icon-img" alt="Ubicación">
+        <h3>¿Dónde?</h3>
+        <p><strong>Los Silos</strong></p>
+        <a href="https://www.google.com/maps/place/Los+Silos+Eventos/@-31.7662878,-60.4388525,17z/data=!3m1!4b1!4m6!3m5!1s0x95b44f1b5d499e69:0x8bca248ea3f9ba2e!8m2!3d-31.7662924!4d-60.4362776!16s%2Fg%2F11cn8v4d_v?entry=ttu&g_ep=EgoyMDI2MDIwMy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D" class="btn">
+            Como llegar
+        </a>
+    </section>
+
+
+    <div class="carrusel">
+    <div class="fotos">
+        <img src="foto1.jpeg">
+        <img src="foto2.jpeg">
+        <img src="foto3.jpeg">
+        <img src="foto1.jpeg">
+        <img src="foto2.jpeg">
+        <img src="foto3.jpeg">
+        <img src="foto1.jpeg">
+        <img src="foto2.jpeg">
+        <img src="foto3.jpeg">
+        <img src="foto1.jpeg">
+        <img src="foto2.jpeg">
+        <img src="foto3.jpeg">
+        <img src="foto1.jpeg">
+        <img src="foto2.jpeg">
+        <img src="foto3.jpeg">
+        <img src="foto1.jpeg">
+        <img src="foto2.jpeg">
+        <img src="foto3.jpeg">
+        <img src="foto1.jpeg">
+        <img src="foto2.jpeg">
+        <img src="foto3.jpeg">
+        <img src="foto1.jpeg">
+        <img src="foto2.jpeg">
+        <img src="foto3.jpeg">
+        <img src="foto1.jpeg">
+        <img src="foto2.jpeg">
+        <img src="foto3.jpeg">
+        <img src="foto1.jpeg">
+        <img src="foto2.jpeg">
+        <img src="foto3.jpeg">
+        <img src="foto1.jpeg">
+        <img src="foto2.jpeg">
+        <img src="foto3.jpeg">
+        <img src="foto1.jpeg">
+        <img src="foto2.jpeg">
+        <img src="foto3.jpeg">
+        <img src="foto1.jpeg">
+        <img src="foto2.jpeg">
+        <img src="foto3.jpeg">
+        <img src="foto1.jpeg">
+        <img src="foto2.jpeg">
+        <img src="foto3.jpeg">
+    </div>
+</div>
+
+    <div class="quote">
+        "Hay momentos que no se pueden borrar, personas que no se pueden olvidar y recuerdos como estos que siempre atesoraré"
+    </div>
+
+    <section class="regalo">
+        <img src="https://latarjetadigital.ar/wp-content/uploads/2024/11/ffffff-blanco-icono-12.gif" class="icon-img" alt="Regalo">
+        <h3>Regalo</h3>
+        <p> Nada es más importante que tu presencia, pero si deseas hacerme un regalo, lo recibiré con mucho aprecio</p>
+    </section>
+
+<div class="automatico">
+    <div class="scroll">
+        <img src="foto4 (2).jpeg">
+        <img src="foto4.jpeg">
+        <img src="foto5.jpeg">
+        <img src="foto4 (2).jpeg">
+        <img src="foto4.jpeg">
+        <img src="foto5.jpeg">
+        <img src="foto4 (2).jpeg">
+        <img src="foto4.jpeg">
+        <img src="foto5.jpeg">
+        <img src="foto4 (2).jpeg">
+        <img src="foto4.jpeg">
+        <img src="foto5.jpeg">
+        <img src="foto4 (2).jpeg">
+        <img src="foto4.jpeg">
+        <img src="foto5.jpeg">
+        <img src="foto4 (2).jpeg">
+        <img src="foto4.jpeg">
+        <img src="foto5.jpeg">
+        <img src="foto4 (2).jpeg">
+        <img src="foto4.jpeg">
+        <img src="foto5.jpeg">
+        <img src="foto4 (2).jpeg">
+        <img src="foto4.jpeg">
+        <img src="foto5.jpeg">
+        <img src="foto4 (2).jpeg">
+        <img src="foto4.jpeg">
+        <img src="foto5.jpeg">
+</div>
+
+   <section class="mensaje">
+        <p>Preparate para una noche <strong>inolvidable</strong></p>
+    </section>
+
+
+    <section>
+        <h3>Confirma tu asistencia</h3>
+        <p>antes de October 20, 2026</p>
+        <a href="https://wa.me/5493435006983" target="_blank" class="btn">Confirma por WhatsApp</a>
+    </section>
+
+<section class="imagen-final">
+    <img src="foto2.jpeg"> 
+</section>
+
+    <footer>
+        <strong>
+        <p>Te estaré esperando</p>
+        
+        </strong>
+    </footer>
+
+<section class="imagen-final2">
+    <img src="foto6.jpeg"> 
+</section>
+
+    <script src="contador.js"></script>
+</body>
+</html>
